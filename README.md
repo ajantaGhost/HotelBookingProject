@@ -89,7 +89,7 @@ An end-to-end analytics pipeline was implemented using Excel, Python. Excel was 
 Key insights revealed that lead time, room type, booking channel, and customer ratings significantly impact revenue and cancellation behavior. Predictive models successfully classified booking status and repeted guest, helping identify high-risk cancellations and high-value bookings. Overall, the project demonstrates a complete real-world data analytics workflow from raw data ingestion to actionable and predictive intelligence.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/AJANTA-GHOSH-g8-ds/blob/main/Final%20capstone%20project/SureTrust_Project_Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/ajantaGhost/HotelBookingProject/blob/main/HotelBooking_ProjectReport.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
@@ -164,7 +164,7 @@ Through active involvement in these activities, I learned the importance of empa
 
 
 <div align="center">
-<img src="https://github.com/sure-trust/AJANTA-GHOSH-g8-ds/blob/main/Final%20capstone%20project/CommunityServices/BloodDonation.jpeg" alt="Community Service Photo 1" width="250" height="250";>
+<img src="https://github.com/ajantaGhost/HotelBookingProject/Asset/BloodDonation.jpeg" alt="Community Service Photo 1" width="250" height="250";>
 <img src="https://github.com/sure-trust/AJANTA-GHOSH-g8-ds/blob/main/Final%20capstone%20project/CommunityServices/BloodDonationCertificate.jpeg" alt="Community Service certificate for Photo 1" width="250" height="250";>
 <img src="https://github.com/sure-trust/AJANTA-GHOSH-g8-ds/blob/main/Final%20capstone%20project/CommunityServices/CloathsDistribution.jpeg" alt="Community Service Photo 2"  width="250" height="200";>
 <img src="https://github.com/sure-trust/AJANTA-GHOSH-g8-ds/blob/main/Final%20capstone%20project/CommunityServices/HelpingOldPerson.jpeg" alt="Community Service Photo 3"  width="250" height="250";>
