@@ -143,7 +143,7 @@ Through active involvement in these activities, I learned the importance of empa
 
 - **Tree Plantation** – Actively participated in a tree plantation drive by planting saplings at a **my building**, contributing to environmental sustainability, greenery development, and ecological balance.
 
-- **Helping Elder Citizens & Clothes Distribution** – Assisted elderly individuals by supporting them with simple daily tasks and distributed clothes that were in good condition but no longer in use. 
+- **Helping Elder Citizens** – Assisted elderly individuals by supporting them with simple daily tasks. 
 
 <!-- you can write impacts according to your experience in your words-->
 
@@ -151,7 +151,6 @@ Through active involvement in these activities, I learned the importance of empa
 
 - Contributed to saving lives and supporting medical emergencies through voluntary blood donation and by helping create a supportive environment during the blood donation camp organized at B. P. Poddar Institute of Management & Technology, Kolkata.  
 - Actively promoted environmental sustainability by participating in tree plantation activities, contributing to greener and cleaner surroundings within the local community.  
-- Improved the quality of life for underprivileged girls and elderly women by distributing essential clothing and offering personal assistance during community outreach activities.  
 - Strengthened community bonds through direct interaction and support to elderly citizens and underprivileged individuals.  
 - Developed a deeper sense of empathy, social responsibility, and civic awareness through active community involvement.  
 - Enhanced interpersonal, communication, and coordination skills by working collaboratively in social initiatives and community programs.
@@ -164,12 +163,12 @@ Through active involvement in these activities, I learned the importance of empa
 
 
 <div align="center">
-<img src="https://github.com/ajantaGhost/HotelBookingProject/Asset/BloodDonation.jpeg" alt="Community Service Photo 1" width="250" height="250";>
-<img src="https://github.com/sure-trust/AJANTA-GHOSH-g8-ds/blob/main/Final%20capstone%20project/CommunityServices/BloodDonationCertificate.jpeg" alt="Community Service certificate for Photo 1" width="250" height="250";>
-<img src="https://github.com/sure-trust/AJANTA-GHOSH-g8-ds/blob/main/Final%20capstone%20project/CommunityServices/CloathsDistribution.jpeg" alt="Community Service Photo 2"  width="250" height="200";>
-<img src="https://github.com/sure-trust/AJANTA-GHOSH-g8-ds/blob/main/Final%20capstone%20project/CommunityServices/HelpingOldPerson.jpeg" alt="Community Service Photo 3"  width="250" height="250";>
-<img src="https://github.com/sure-trust/AJANTA-GHOSH-g8-ds/blob/main/Final%20capstone%20project/CommunityServices/TreePlantation1.jpeg" alt="Community Service Photo 4"  width="250" height="250" ;>
-<img src="https://github.com/sure-trust/AJANTA-GHOSH-g8-ds/blob/main/Final%20capstone%20project/CommunityServices/TreePlantation2.jpeg" alt="Community Service Photo 5"  width="250" height="250" ;>
+<img src="https://github.com/ajantaGhost/HotelBookingProject/blob/main/Assets/BloodDonation.jpeg" alt="Community Service Photo 1" width="250" height="250";>
+<img src="https://github.com/ajantaGhost/HotelBookingProject/blob/main/Assets/BloodDonationCertificate.jpeg" alt="Community Service certificate for Photo 1" width="250" height="250";>
+<img src="https://github.com/ajantaGhost/HotelBookingProject/blob/main/Assets/HelpingOldPerson1.jpeg" alt="Community Service Photo 2"  width="250" height="200";>
+<img src="https://github.com/ajantaGhost/HotelBookingProject/blob/main/Assets/HelpingOldPerson.jpeg" alt="Community Service Photo 3"  width="250" height="250";>
+<img src="https://github.com/ajantaGhost/HotelBookingProject/blob/main/Assets/TreePlantation1.jpeg" alt="Community Service Photo 4"  width="250" height="250" ;>
+<img src="https://github.com/ajantaGhost/HotelBookingProject/blob/main/Assets/TreePlantation2.jpeg" alt="Community Service Photo 5"  width="250" height="250" ;>
 </div>
 
 ---
